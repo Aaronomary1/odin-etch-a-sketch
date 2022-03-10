@@ -1,0 +1,17 @@
+#etchcontainer{
+   display:flex;
+   height:500px;
+   width:500px;
+   border:solid;
+}
+.etchbox{
+    flex:1;
+    display:flex;
+    flex-flow:wrap;
+    height:500px;
+}
+.etchpixel{
+    
+    flex-basis:100%
+}
+
